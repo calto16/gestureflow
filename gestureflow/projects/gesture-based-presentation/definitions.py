@@ -1,0 +1,1 @@
+RIGHT_POINT = 'rightPoint'
